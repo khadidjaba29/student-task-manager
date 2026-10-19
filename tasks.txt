@@ -1,0 +1,5 @@
+true|Finish Java homework
+false|Study for exams
+false|Update my resume
+false|Build my Github portfolio
+false|Practice SQl
