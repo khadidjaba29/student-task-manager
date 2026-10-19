@@ -1,52 +1,46 @@
-
 # Student Task Manager
 
-A simple command-line task management application built with Java.
+A simple task management application built with Java. This project helps users organize and manage their tasks through a command-line interface.
 
 ## Features
 
-- View all tasks
-- Add new tasks
-- Mark tasks as completed
-- Save tasks to a text file
-- Load saved tasks when the application starts
+- View and manage tasks.
+- Store task information in a text file.
+- Practice object-oriented programming in Java.
+- Use Git and GitHub for version control.
 
-## Technologies
+## Technologies Used
 
 - Java
-- Object-Oriented Programming (OOP)
-- ArrayList and collections
-- File handling
-- Command-line interface
+- Git
+- GitHub
+- Visual Studio Code
 
-## Project Structure
+## Project Files
 
-- `Main.java` — Application menu and task management logic
-- `Task.java` — Task class and completion status
-- `tasks.txt` — Stores saved tasks
+- `Main.java` — Application entry point.
+- `Task.java` — Represents a task.
+- `tasks.txt` — Stores task data.
+- `.gitignore` — Excludes compiled Java `.class` files from version control.
 
 ## How to Run
 
-Make sure Java is installed.
+1. Make sure Java is installed.
+2. Open the project folder in your terminal.
+3. Compile the Java files:
 
-Compile the application:
+   `javac Main.java Task.java`
 
-```bash
-javac Task.java Main.java
-```
+4. Run the application:
 
-Run the application:
-
-```bash
-java Main
-```
+   `java Main`
 
 ## What I Learned
 
-Through this project, I practiced Java classes and objects, collections, loops, conditional statements, exception handling, and file input/output.
+This project helped me practice Java programming, class design, file management, and Git/GitHub version control.
 
-## Future Improvements
+## Author
 
-- Add task priorities and due dates
-- Improve input validation
-- Build a graphical user interface
+Khadidja Ba
+
+GitHub: [@khadidjaba29](https://github.com/khadidjaba29)
